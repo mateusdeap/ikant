@@ -1,0 +1,2 @@
+com/example/ikant/androidApp/BuildConfig.java
+ com.example.ikant.androidApp.BuildConfig

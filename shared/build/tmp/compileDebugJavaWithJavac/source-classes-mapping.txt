@@ -1,0 +1,2 @@
+com/example/ikant/shared/BuildConfig.java
+ com.example.ikant.shared.BuildConfig
